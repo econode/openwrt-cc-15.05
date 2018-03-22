@@ -1,0 +1,2 @@
+*/5 * * * * /bin/check_vpn_status.sh
+
